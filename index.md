@@ -1,5 +1,5 @@
-UAS at UNLV
-===========
+About
+=====
 
 The UAS lab at UNLV has the experience and resources to develop uncrewed vehicle technology.
 The lab currently emphasizes quadcopter technology,
