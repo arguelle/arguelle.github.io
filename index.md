@@ -13,6 +13,8 @@ This the is open-source firmware that our lab uses to autopilot vehicles.
 #### [ROS](https://www.ros.org)
 Robot Operating System is an open-source project with many useful tools
   that can be implemented into autonomous vehicles.
+#### Simulate
+Using Gazebo, you can fly a drone in a virtual environment.
 
 ### Contact
 Martin Arguelles-Perez arguelle@unlv.nevada.edu\
