@@ -16,4 +16,4 @@ The dynamics of the system depend on the nature of the phenomenon being sensed.
 
 Archive
 -------
-Visit [link](https://www.unlv.edu/engineering/uas#:~:text=UNLV's UAS minor program introduces,Boyd School of Law.)
+Visit [link](https://www.unlv.edu/engineering/uas)
