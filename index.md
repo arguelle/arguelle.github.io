@@ -17,5 +17,5 @@ Robot Operating System is an open-source project with many useful tools
 Using Gazebo, you can fly a drone in a virtual environment.
 
 ### Contact
-Woosoon Yim woosoon.yim@unlv.edu
-Martin Arguelles-Perez arguelle@unlv.nevada.edu\
+Woosoon Yim woosoon.yim@unlv.edu/
+Martin Arguelles-Perez arguelle@unlv.nevada.edu
